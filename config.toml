@@ -41,9 +41,9 @@ enableEmoji = true
   socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/cover.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "giovillanueva_"
+  twitter = ""
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
