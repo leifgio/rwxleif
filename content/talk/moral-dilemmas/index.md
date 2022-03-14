@@ -18,5 +18,5 @@ links:
 location: remote
 show_post_time: false
 subtitle: Testing
-title: Conducive Learning Environment
+title: Moral dilemmas
 ---
