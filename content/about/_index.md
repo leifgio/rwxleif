@@ -1,11 +1,12 @@
 ---
-cascade:
-  headless: true
+title: "About"
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  A Hugo theme made for R Markdown users.
 show_header: true
 sidebar_left: false
-title: About
+# Keep this! Do not edit.
+cascade:
+  headless: false
 ---
 
 ** index doesn't contain a body, just front matter above.

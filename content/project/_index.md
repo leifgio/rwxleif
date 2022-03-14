@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: Leif Gio
 cascade:
   show_author_byline: true
   show_comments: false
@@ -9,10 +9,10 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: Give your projects a place to live online.
-layout: list-grid
+layout: list
 show_author_byline: true
-show_button_links: false
-show_post_date: false
+show_button_links: true
+show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: The R Markdown Team @RStudio
@@ -24,5 +24,3 @@ sidebar:
   title: A Sidebar for Your Projects
 title: A Project Portfolio To Grow
 ---
-
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

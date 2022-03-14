@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Personal website of Leif Gio Villanueva</title>
+    <link>/categories/technology/</link>
+    <description>Recent content in technology on Personal website of Leif Gio Villanueva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tablets for textbooks</title>
+      <link>/talk/tablets-for-textbooks/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/tablets-for-textbooks/</guid>
+      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+    </item>
+    
+  </channel>
+</rss>
